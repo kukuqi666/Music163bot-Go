@@ -2,7 +2,7 @@
 
 <h4 align="center">一个用来下载/分享/搜索网易云歌曲的telegram bot</h4>
 
-<p align="center">演示bot：<a href="https://t.me/Music163bot">https://t.me/Music163bot</a></p>
+<p align="center">演示bot：<a href="https://t.me/Music163bot">https://t.me/kukuqi_bot</a></p>
 
 <p align="center">
 	<a href="https://goreportcard.com/report/github.com/XiaoMengXinX/Music163bot-Go/v2">
